@@ -31,7 +31,7 @@ st.set_page_config(
     layout="wide",
 )
 
-DATA_PATH = "diesel_engine_maintenance_dataset.csv"
+DATA_PATH = "dataset/diesel_engine_maintenance_dataset.csv"
 RANDOM_STATE = 42
 
 FEATURES = [
