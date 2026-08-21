@@ -30,7 +30,7 @@ st.set_page_config(
     layout="wide",
 )
 
-DATA_PATH = "diesel_engine_maintenance_dataset.csv"  # Update path if inside 'dataset/' folder
+DATA_PATH = "dataset/diesel_engine_maintenance_dataset.csv"  # Update path if inside 'dataset/' folder
 
 SENSOR_OPTIONS = [
     "exhaust_gas_temp_c",
